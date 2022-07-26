@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\bin\Debug\OrderAutomation.DataAccsessLayer.dll.config
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\bin\Debug\OrderAutomation.DataAccsessLayer.dll
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\bin\Debug\OrderAutomation.DataAccsessLayer.pdb
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\bin\Debug\OrderAutomation.Entities.dll
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\bin\Debug\OrderAutomation.Entities.pdb
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\bin\Debug\OrderAutomation.Entities.dll.config
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\obj\Debug\OrderAutomation.DataAccsessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\obj\Debug\OrderAutomation.DataAccsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\obj\Debug\OrderAutomation.DataAccsessLayer.csproj.CopyComplete
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\obj\Debug\OrderAutomation.DataAccsessLayer.dll
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation.DataAccsessLayer\obj\Debug\OrderAutomation.DataAccsessLayer.pdb

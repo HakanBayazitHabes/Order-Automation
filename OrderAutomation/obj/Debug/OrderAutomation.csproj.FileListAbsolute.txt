@@ -1,0 +1,81 @@
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.exe.config
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.exe
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.pdb
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Business.dll
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.DataAccsessLayer.dll
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Entities.dll
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Business.pdb
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Business.dll.config
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.DataAccsessLayer.pdb
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.DataAccsessLayer.dll.config
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Entities.pdb
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Entities.dll.config
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.CustomerUI.resources
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.Properties.Resources.resources
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.GenerateResource.cache
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.CopyComplete
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.exe
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.pdb
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.AdminControlUI.resources
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.Form1.resources
+C:\Users\user\Desktop\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.Kaydol.resources
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.exe.config
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.exe
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.pdb
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Business.dll
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.DataAccsessLayer.dll
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Entities.dll
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Business.pdb
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Business.dll.config
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.DataAccsessLayer.pdb
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.DataAccsessLayer.dll.config
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Entities.pdb
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Entities.dll.config
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.AdminControlUI.resources
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.CustomerUI.resources
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.Form1.resources
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.Kaydol.resources
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.Properties.Resources.resources
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.GenerateResource.cache
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.CopyComplete
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.exe
+C:\Users\user\Desktop\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.pdb
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.exe.config
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.exe
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.pdb
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.dll
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Business.dll
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.DataAccsessLayer.dll
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Entities.dll
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Business.pdb
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Business.dll.config
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.DataAccsessLayer.pdb
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.DataAccsessLayer.dll.config
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Entities.pdb
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\OrderAutomation.Entities.dll.config
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.xml
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.AssemblyReference.cache
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.AdminControlUI.resources
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.CustomerUI.resources
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.Form1.resources
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.Kaydol.resources
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.Properties.Resources.resources
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.GenerateResource.cache
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.CoreCompileInputs.cache
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.csproj.CopyComplete
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.exe
+D:\Yaptığım Projeler\Projects I made in C#\OrderAutomationAll\OrderAutomation\OrderAutomation\obj\Debug\OrderAutomation.pdb
